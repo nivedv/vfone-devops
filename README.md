@@ -1,2 +1,1 @@
-# vfone-devops
-DevOps Training
+# DevOps Training for Vodafone
